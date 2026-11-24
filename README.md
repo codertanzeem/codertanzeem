@@ -1,27 +1,32 @@
 ### Hi there 👋
 ![logo](https://github.com/codertanzeem/codertanzeem/blob/main/v627-aew-15-technologybackground.jpg)
-<h1 align="center">Hi 👋, I'm Sayed Tanzeem Mohammad Naqvi</h1>
-<h3 align="center">A passionate Machine Learning fresher from India</h3>
+<h1 align="center">Hi 👋, I'm Sayed Tanzeem Mohd. Naqvi</h1>
+<h3 align="center">Data Analyst | AI Engineer</h3>
 <img align = "right" alt = "coding gif" width = "400" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZmMXE5MnJyam9nMzk0dHFsejhrMmZmdjVrbHJmYzFueWwzYmhsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codertanzeem&label=Profile%20views&color=0e75b6&style=flat" alt="codertanzeem" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+Hi, I'm Tanzeem 👋
+I'm a technology enthusiast focused on building intelligent applications, exploring artificial intelligence and
+transforming data into actionable insights.
+My interests span Data Analytics, Machine Learning, Generative AI and AI-powered automation.
+I enjoy experimenting with emerging technologies, solving practical problems and turning ideas into functional
+applications.
 
-- 🌱 I’m currently learning **Tenserflow and Django**
+
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/codertanzeem](https://github.com/codertanzeem)
 
 - 📝 I sometimes write articles on [https://medium.com/@lazitanzeem](https://medium.com/@lazitanzeem)
 
-- 💬 Ask me about **Python, Sql, Machine-Learning, Tableau, R**
+- 💬 Ask me about **Python, Sql, Machine-Learning, Tableau and AI**
 
-- 📫 How to reach me **lazitanzeem@gmail.com**
+- 📫 How to reach me **lazitanzeem01@gmail.com | Freelancertanzeem@gmail.com**
 
-- ⚡ Fun fact **I am unemployed**
+- ⚡ Currently focused on: **AI Agents, LLM Applications, Data Analytics and Intelligent Automation.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
