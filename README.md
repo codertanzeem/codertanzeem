@@ -1,17 +1,20 @@
 
-![logo](https://github.com/codertanzeem/codertanzeem/blob/main/v627-aew-15-technologybackground.jpg)
 <h1 align="center">Hi 👋, I'm Sayed Tanzeem Mohd. Naqvi</h1>
 <h3 align="center">Data Analyst | AI Engineer</h3>
 <img align = "right" alt = "coding gif" width = "400" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZmMXE5MnJyam9nMzk0dHFsejhrMmZmdjVrbHJmYzFueWwzYmhsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codertanzeem&label=Profile%20views&color=0e75b6&style=flat" alt="codertanzeem" /> </p>
 
 Hi, I'm Tanzeem 👋
-I'm a technology enthusiast focused on building intelligent applications, exploring artificial intelligence and
-transforming data into actionable insights.
-My interests span Data Analytics, Machine Learning, Generative AI and AI-powered automation.
-I enjoy experimenting with emerging technologies, solving practical problems and turning ideas into functional
-applications.
 
+I'm focused on Data Analytics and Artificial Intelligence, with an
+interest in building practical applications that turn data into
+actionable insights and solve real-world problems.
+
+My work and learning involve Python, SQL, Business Intelligence,
+Machine Learning, Generative AI and intelligent automation.
+
+I'm continuously strengthening my analytical skills while
+developing my understanding of AI Agents and Agentic AI.
 
 
 
@@ -22,7 +25,8 @@ applications.
 
 - 💬 Ask me about **Python, Sql, Machine-Learning, Tableau and AI**
 
-- 📫 How to reach me **lazitanzeem01@gmail.com | Freelancertanzeem@gmail.com**
+- 📫 How to reach me **Freelancertanzeem@gmail.com**
+- 📫 Alternate mail **lazitanzeem01@gmail.com**
 
 <h2 align="left">🎯 Current Focus</h2>
 
