@@ -38,50 +38,133 @@ applications.
 </p>
 
 
+
 <h2 align="left">🛠️ Languages & Technologies</h2>
 
 <h3 align="left">💻 Programming & Databases</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+      <br><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">📊 Data Analytics & Visualization</h3>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40" alt="Excel"/></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="42" height="42" alt="Excel"/>
+      <br><sub><b>Excel</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/power-bi.png" width="42" height="42" alt="Power BI"/>
+      <br><sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="42" height="42" alt="Tableau"/>
+      <br><sub><b>Tableau</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+      <br><sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
+      <br><sub><b>NumPy</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib"/>
+      <br><sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="65" height="42" alt="Seaborn"/>
+      <br><sub><b>Seaborn</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">🤖 AI & Machine Learning</h3>
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn"/>
+      <br><sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow"/>
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" height="42" alt="LangChain"/>
+      <br><sub><b>LangChain</b></sub>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">⚡ AI Development & Automation</h3>
-<p align="left">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/></a>
-  <a href="https://n8n.io/" target="_blank"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" alt="Streamlit"/></a>
-</p>
+<h3 align="left">🧠 Generative AI & LLM Technologies</h3>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="42" height="42" alt="RAG"/>
+      <br><sub><b>RAG</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="42" height="42" alt="Vector Databases"/>
+      <br><sub><b>Vector Databases</b></sub>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">🌐 Web Development</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/></a>
-</p>
+<h3 align="left">⚡ Automation & Application Development</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n"/>
+      <br><sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="REST APIs"/>
+      <br><sub><b>REST APIs</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="42" height="42" alt="Streamlit"/>
+      <br><sub><b>Streamlit</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap"/>
+      <br><sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 
 
