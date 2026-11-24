@@ -49,11 +49,15 @@ developing my understanding of AI Agents and Agentic AI.
 <table>
   <tr>
     <td width="50%">
-      <h3>📊 Data Analytics Projects</h3>
-      <p>Data cleaning, exploratory analysis, visualisation
-      and business insights using Python, SQL and Power BI.</p>
-      <p><b>Tech:</b> Python, SQL, Pandas, Power BI</p>
-      <a href="YOUR_REPOSITORY_LINK">View Project</a>
+      <h3>📊 Data Analytics & Business Intelligence</h3>
+      <p>Hands-on projects analysing activity data, sales performance
+      and cricket auction data through Excel, Tableau and SQL.</p>
+      <ul>
+        <li><a href="https://github.com/codertanzeem/Internshala-Advance-Excel">Fitbit Data Analysis – Advanced Excel</a></li>
+        <li><a href="https://github.com/codertanzeem/Internshala-Advance-Tableau">Bike Haven – Sales Performance Dashboard (Tableau)</a></li>
+        <li><a href="https://github.com/codertanzeem/Internshala-SQL-DataAnalysis">IPL Auction & Player Performance Analysis (SQL)</a></li>
+      </ul>
+      <p><b>Tech:</b> Excel, Tableau, SQL</p>
     </td>
     <td width="50%">
       <h3>🤖 AI & Generative AI Applications</h3>
