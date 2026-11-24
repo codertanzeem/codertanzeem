@@ -24,7 +24,10 @@ applications.
 
 - 📫 How to reach me **lazitanzeem01@gmail.com | Freelancertanzeem@gmail.com**
 
-- ⚡ Currently focused on: **AI Agents, LLM Applications, Data Analytics and Intelligent Automation.**
+<h2 align="left">🎯 Current Focus</h2>
+
+- Perfecting Data Analysis and Business Intelligence skills
+- Learning and exploring AI, Agentic AI and AI Agents
 
 
 
@@ -37,7 +40,26 @@ applications.
 
 </p>
 
+<h2 align="center">🚀 Featured Projects</h2>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Data Analytics Projects</h3>
+      <p>Data cleaning, exploratory analysis, visualisation
+      and business insights using Python, SQL and Power BI.</p>
+      <p><b>Tech:</b> Python, SQL, Pandas, Power BI</p>
+      <a href="YOUR_REPOSITORY_LINK">View Project</a>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI & Generative AI Applications</h3>
+      <p>Practical applications exploring LLMs, RAG,
+      intelligent automation and AI-powered workflows.</p>
+      <p><b>Tech:</b> Python, LangChain, RAG, n8n</p>
+      <a href="YOUR_REPOSITORY_LINK">View Project</a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">🛠️ Languages & Technologies</h2>
 
