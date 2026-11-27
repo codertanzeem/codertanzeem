@@ -60,14 +60,18 @@ developing my understanding of AI Agents and Agentic AI.
       <p><b>Tech:</b> Excel, Tableau, SQL</p>
     </td>
     <td width="50%">
-      <h3>🤖 AI & Generative AI Applications</h3>
-      <p>Practical applications exploring LLMs, RAG,
-      intelligent automation and AI-powered workflows.</p>
-      <p><b>Tech:</b> Python, LangChain, RAG, n8n</p>
-      <a href="YOUR_REPOSITORY_LINK">View Project</a>
-    </td>
-  </tr>
-</table>
+  <h3>🤖 AI & Generative AI Applications</h3>
+  <p>Practical applications exploring LLMs, RAG,
+  intelligent automation and AI-powered workflows.</p>
+  <ul>
+    <li>
+      <a href="https://github.com/codertanzeem/talk-to-your-data">
+        Talk to Your Data – AI-Powered Data Analysis
+      </a>
+    </li>
+  </ul>
+  <p><b>Tech:</b> Python, LangChain, Groq, Streamlit</p>
+</td>
 
 <h2 align="left">🛠️ Languages & Technologies</h2>
 
